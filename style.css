@@ -1,0 +1,270 @@
+.fixedbox img{
+    background-color: white;
+    margin-left: 1160px;
+    border-radius: 19px;
+    border-style: hidden;
+    border-width: 1px;
+    position: fixed;
+    padding-bottom: ;
+    
+}
+.header{
+    width: 100%;
+    display: flex;
+}
+.hcenter button{
+    font-style: oblique;
+    border-style: none;
+    background-color: white;
+
+}
+.hright{
+    padding-left: 457px;
+}
+.hright button{
+    color: firebrick;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.Body1{
+    padding-top: 1%;
+    background-color: lightgray;
+    text-align: center;
+    width: 100%;
+    height: 48px;;
+}
+.Body1 button{
+    background-color:darkred;
+    color:white;
+}
+.Body3{
+    padding-left: 41px;
+    margin-top: 10px;
+    display: flex;
+}
+.Body4{
+    text-align: center;
+}
+.Body5{
+    padding-left: 30%;
+    margin-bottom: 10px;
+}
+.Body6{
+    display: flex;
+}
+.InnerBody61{
+    height: 50%;
+    display: flex;
+}
+.InnerBody62{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    position:;
+}
+.InnerBody63{
+    height: 50%;
+    width: 50%;
+    }
+    .InnerBody64{
+        width: 50%;
+        height: 50%;
+    } 
+    .InnerBody65{
+        
+        display: flex;
+    }
+.Body7{
+    text-align: center;
+    font-size: 30px;
+}
+.Body8{
+    margin-top: 10px;
+    padding-left: 90px;
+    display: flex;
+}
+.Body10{
+    margin-top: 10px;
+    padding-left: 50px ;
+    display: flex;
+}
+.InnerBody101{
+    text-align: center;
+}
+.InnerBody102{
+    text-align: center;
+}
+.InnerBody103{
+    text-align: center;
+}
+.InnerBody104{
+    text-align: center;
+}
+.Body12{
+    padding-left: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.InnerBody121{
+    text-align: center;
+}
+.InnerBody122{
+    text-align: center;
+}
+.InnerBody123{
+    text-align: center;
+}
+.InnerBody124{
+    text-align: center;
+}
+.Body13{
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.InnerBody131{
+ text-align: center;
+}
+.InnerBody132{
+    text-align: center;
+}
+.InnerBody133{
+    text-align: center;
+}
+.InnerBody134{
+    text-align: center;
+}
+.Body14{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.Body14 button{
+    background-color: darkred;
+    font-size: 30px;
+}
+.Body15{
+    display: flex;
+    justify-content: space-between;
+}
+.Body15 button{
+    background-color: white;
+    border-style: none;
+}
+.InnerBody151{
+    text-align: center;
+    width: 33.3%;
+    height:100%;
+}
+.InnerBody152{
+    text-align: center;
+    width: 33.3%;
+    height:100%;
+}
+.InnerBody153{
+    text-align: center;
+    width: 33.3%;
+    height:100%;
+}
+.Body16{
+    text-align: center;
+    
+}
+.Body17{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-evenly;
+}
+.Body17 h5{
+    color: lightblue;
+    font-size: small;
+    font-weight: lighter;
+}
+.InnerBody171{
+    text-align: center;
+    font-style: normal;
+    
+}
+.InnerBody172{
+    text-align: center;
+    font-style: normal;
+    
+}
+.InnerBody173{
+    text-align: center;
+    font-style: normal;
+    
+}
+.InnerBody174{
+    text-align: center;
+    font-style: normal;
+    
+}
+.Body20{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;}
+    .Body21{
+        padding-left: -10px;
+        display: flex;
+        justify-content: space-around;
+        justify-content: space-evenly;
+    }
+    .Body21 h4{
+        font-style: oblique;
+        font-weight: lighter;
+    }
+    .Body22{
+        padding-left: 100px;
+        display: flex;
+        justify-content: space-around;
+        justify-content: space-evenly;
+    }
+    .Body22 h4{
+        font-style: oblique;
+        font-weight: lighter;
+    }
+    .InnerBody222{
+        padding-left: 150px;
+        padding-right: 20px;
+    }
+    .InnerBody223{
+        padding-left: 100px;
+        padding-right: 20px;
+    }
+    .Body23{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        height: 50px;
+       
+    }
+    .InnerBody230{
+        width: 25%;
+        height: 100%;
+        
+    }
+    .InnerBody231{
+        margin-left: -937px;
+     }
+ 
+    .InnerBody230 img{
+        border-radius: 50px;
+    }
+    .InnerBody232{
+        width: 25%;
+        padding-left: 50px;
+    }
+    
+.footer{
+ padding-left: 10px;
+background-color: black;
+}
+.footer h5{
+    color:white;
+}
+.footer h6{
+    color: lightslategray;
+}
